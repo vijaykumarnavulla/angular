@@ -1,0 +1,41 @@
+.ml-10 {
+    margin: 10px !important; }
+  
+  .div_search {
+    border: solid black 1px;
+    border-radius: 10px;
+    height: 43px;
+    padding-top: 6px; }
+  
+  .input_search {
+    width: 174px;
+    border: none;
+    height: 31px; }
+  
+  .vl {
+    border-left: 6px solid darkgray;
+    height: 40px; }
+  
+  .input_search::-webkit-input-placeholder {
+    text-align: center; }
+  
+  .input_search:-moz-placeholder {
+    /* Firefox 18- */
+    text-align: center; }
+  
+  .input_search::-moz-placeholder {
+    /* Firefox 19+ */
+    text-align: center; }
+  
+  .input_search:-ms-input-placeholder {
+    text-align: center; }
+  
+  .span_close {
+    text-align: center;
+    font-size: 18PX;
+    font-weight: bold; }
+  
+  .mt-10 {
+    margin-top: 10px;
+    margin-bottom: 10px; }
+  
