@@ -1,4 +1,4 @@
-https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md
+﻿https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md
 
 https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
 
@@ -37,3 +37,7 @@ https://medium.com/@kevinkreuzer/refresh-current-route-in-angular-512a19d58f6e
 https://stackoverflow.com/questions/40353000/javascript-add-two-binary-numbers-returning-binary  
 
 https://www.w3schools.com/js/js_bitwise.asp  
+
+for creating classes in javascript
+
+http://www.objectplayground.com
