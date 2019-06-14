@@ -1,3 +1,10 @@
+juristr for creating librareis dynamic components
+
 https://github.com/juristr
 
+deborah kourata
+
+https://github.com/DeborahK/Angular-ReactiveForms
+
+ionic for react vue and angular
 https://github.com/ionic-team/ionic
