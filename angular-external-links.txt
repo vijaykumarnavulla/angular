@@ -8,3 +8,7 @@ https://github.com/DeborahK/Angular-ReactiveForms
 
 ionic for react vue and angular
 https://github.com/ionic-team/ionic
+
+angular change detection example
+
+https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f
