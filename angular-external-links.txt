@@ -12,3 +12,7 @@ https://github.com/ionic-team/ionic
 angular change detection example
 
 https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f
+
+javascript github
+
+https://github.com/tc39
