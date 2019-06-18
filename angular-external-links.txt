@@ -16,3 +16,7 @@ https://blog.angularindepth.com/everything-you-need-to-know-about-change-detecti
 javascript github
 
 https://github.com/tc39
+
+conference mettings
+
+https://confs.tech/javascript
