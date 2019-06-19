@@ -20,3 +20,12 @@ https://github.com/tc39
 conference mettings
 
 https://confs.tech/javascript
+
+generating typescript files
+
+http://json2ts.com/
+
+formate and validate json files
+
+https://jsonformatter.org/
+
