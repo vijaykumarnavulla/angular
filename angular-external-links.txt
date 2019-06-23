@@ -21,6 +21,8 @@ conference mettings
 
 https://confs.tech/javascript
 
+https://konfhub.com/index.html
+
 generating typescript files
 
 http://json2ts.com/
