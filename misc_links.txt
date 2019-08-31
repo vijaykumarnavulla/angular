@@ -47,3 +47,11 @@ Email: (this IS public) nandeeshwar.p@gmail.com
   "lib": {
     "entryFile": "public_api.ts"
   }
+  
+shutdown –a
+
+shutdown –s -t 1200	
+
+fibanacooi
+
+factorial
