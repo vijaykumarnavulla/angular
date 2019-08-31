@@ -1,0 +1,49 @@
+grey black white
+
+angular wysiwyg editor
+
+doc no background
+
+https://github.com/nandeeshwar-p/Doc-xOTB-Angular 
+https://github.com/ERS-HCL/xOTB-Angular-Doc 
+
+https://github.com/ERS-HCL/xOTB-Angular.git
+
+
+https://flex.apache.org/asdoc/ 
+
+npm run build –prod
+
+npm run packagr
+
+google cloud host
+
+
+https://edge-xotb.herokuapp.com/
+ 
+azure cloud host
+
+https://flex.apache.org/asdoc/ 
+
+  npm login
+  
+  Username: the-best-apps
+Password:
+Email: (this IS public) nandeeshwar.p@gmail.com
+
+  
+  ng serve --prod
+  npm run packagr
+  
+  
+  cd dist
+  npm publish
+  
+  npm unpublish edge-xotb-ng@0.0.2
+  
+  {
+  "$schema": "./node_modules/ng-packagr/ng-package.schema.json",
+  "whitelistedNonPeerDependencies": ["."],
+  "lib": {
+    "entryFile": "public_api.ts"
+  }
