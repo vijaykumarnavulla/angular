@@ -1,0 +1,359 @@
+1) var a = [1,2,3,4,3,3,4,4,2,2,4,4];
+
+write a program to get the number of items repeated
+
+// Ex:output - 2 three times, 3 three times,4 five times and so on
+
+ 
+
+2) reverse an array without using built in function as well as third variable
+
+var a =[1,2,3,4,5];
+
+//output - a =[5,4,3,2,1];
+
+not b as third variable like b =[5,4,3,2,1];
+
+ 
+
+3) reverse of each element of an array
+
+var a =[1,2,3,4,5,6];
+
+//output - [2,1,4,3,6,5];
+
+ 
+
+4) how search is working and fetching the result while typing google.com or anything in URL
+
+ 
+
+5) how css will work
+
+     div,p
+
+     div p
+
+    div > p
+
+ 
+
+6) inline style {bg:red}
+
+   external css {bg:blue}
+
+which background is going to effect red or blue
+
+ 
+
+if some style in jquery also like
+
+$('#id').css('background', green)
+
+which background is going to effect red or blue or green
+
+ 
+
+ 
+
+JavaScript
+
+•             How can you create private variables and private functions?
+
+•             What is a closure and what's its significance?
+
+•             How to implement inheritance in JavaScript?
+
+•             What is a class in JavaScript? how to create an object?
+
+•             What is a promise and why is it used?
+
+•             Which Design pattern you've used in your project?
+
+•             Few programs on arrays, strings, objects and inheritance.
+
+ 
+
+Angular 6
+
+•             How do you modularize your angular application?
+
+•             In which module will you place the service and why?
+
+•             What are guards in angular and where are they used?
+
+•             Angular 6 component life-cycle?
+
+•             Angular CLI version used?
+
+•             How to pass data from one child component to another child component?
+
+•             Properties available in route configurations array?
+
+•             Forms in Angular 6 and which one you've used and why?
+
+•             What is dependency injection in Angular 6?
+
+•             How is lazy loading achieved in Angular 6?
+
+•             What is data-binding and how it is done in Angular 6?
+
+ 
+
+Logical & Analytical
+
+•             Two candles are there and it takes 30 mins for a candle to burn completely when burnt from one end. Each candle can be burned from either ends. How to find if 45 minutes are over?
+
+•             There are six balls. Out of which five balls are of the same weight and sixth ball is 1 gm lesser in weight. Find out which ball is it? You can use a weighing scale. (Minimum steps required to find this out).
+
+•             1) What is Palindrome. Write a programe
+
+•             2) what is Fibonacci. Write a programe
+
+•             3) Given String is String str = "Hello" How to reverse the string without using API?
+
+•            
+
+•             DATA STRUCTURES
+
+•            
+
+•             1) What are linear and non linear data Structures?
+
+•             2) What is Binary search and Linear search?
+
+•             3) what is Binary tree?
+
+•             4) What is Binary search tree?
+
+•            
+
+•            
+
+•            
+
+•            
+
+•             css
+
+•            
+
+•             1) what is grid layout?
+
+•             2) can you write a css for triangle, square?
+
+•             3)  Difference between margin and padding?
+
+•            
+
+•            
+
+•            
+
+•            
+
+•             JAVASCRIPT
+
+•            
+
+•             1)  What is cursor
+
+•             2)  How to implement Inheritance concept in JavaScript
+
+•             3)  What are  DOM Event Listeners?
+
+•            
+
+•             In JavaScript they may ask you to write some programs on  logical scenarios and
+
+•            
+
+•            
+
+•             1). write a logic for two numbers like power of equal to match
+
+•            
+
+•             ex: function abc(a,b){}
+
+•             if two number are 8,2 and 8 power of 2 it should match like this if it not match we have some message for this
+
+•            
+
+•             2).  [23,45,76,32,12,34,67]
+
+•                   [34, 32,67,23,76,12]
+
+•             in this two array they ask us to compare two array and find the missing number for this logic
+
+•            
+
+•             3) [1,34,56,2,22,3,45,24....]
+
+•             write a logic for array sorting with out using predefined method like .sort()
+
+•            
+
+•             4) differance between angular 1 and latest versions
+
+•            
+
+•             5) there is api call like this : "get/data"
+
+•                  it has some json data {
+
+•                 data: [ address: "bangalore",  company: "HCL" ],
+
+•                        [ address: "bangalore",  company: "verizone" ],
+
+•             [..........],
+
+•             [...........] like this many records
+
+•             }
+
+•            
+
+•             write javascript for http calls for the above question and print those values in table like address, company
+
+•            
+
+•            
+
+•             6) new features of HTML5
+
+•            
+
+•             7).call(), .bind(), .apply() where we use how to use
+
+•            
+
+•             8) css positions they have asked in depth
+
+•            
+
+•             ) var a = [1,2,3,4,3,3,4,4,2,2,4,4];
+
+•             write a program to get the number of items repeated
+
+•             // Ex:output - 2 three times, 3 three times,4 five times and so on
+
+•            
+
+•             2) reverse an array without using built in function as well as third variable
+
+•             var a =[1,2,3,4,5];
+
+•             //output - a =[5,4,3,2,1];
+
+•             not b as third variable like b =[5,4,3,2,1];
+
+•            
+
+•             3) reverse of each element of an array
+
+•             var a =[1,2,3,4,5,6];
+
+•             //output - [2,1,4,3,6,5];
+
+•            
+
+•             4) how search is working and fetching the result while typing google.com or anything in URL
+
+•            
+
+•             5) how css will work
+
+•                  div,p
+
+•                  div p
+
+•                 div > p
+
+•            
+
+•             6) inline style {bg:red}
+
+•                external css {bg:blue}
+
+•             which background is going to effect red or blue
+
+•            
+
+•             if some style in jquery also like
+
+•             $('#id').css('background', green)
+
+•             which background is going to effect red or blue or green
+
+========================================================================
+
+React/Redux Questions:
+
+ 
+
+1. Difference between state and props in Component?
+
+2. How to create components in React
+
+3. Why should we not update the state directly?
+
+4. How to bind event handlers in JSX callbacks?
+
+5. How Virtual DOM works
+
+6. React 16.3+ new lifecycle methods
+
+7. How Routing works
+
+8. Difference between constructor and getInitialState?
+
+9. Difference between super() and super(props)
+
+10. Difference between var and let and const
+
+11. What are the Router components of React Router
+
+12. How Redux architecture works and explain
+
+13. Explain State is mutable or immutable?
+
+14. How to handle redux thunk and how to access store
+
+15. Diff b/w ref and forward ref
+
+===========================================
+
+1.            Component Interaction
+
+2.            Which module is used for api calls
+
+3.            Fetch is reactjs or js? What are the params passed in fetch
+
+4.            What is Jsx
+
+5.            Do we have any transpiler other than babel?
+
+6.            How to use a class in another class in typescript
+
+7.            What is package.json and use of it
+
+8.            What are Hooks
+
+9.            What is yarn and npm
+
+10.          How to use service in a component
+
+11.          How react and redux is connected and its flow
+
+12.          How to update props from child component (which is passed from parent)
+
+13.          In 3 components A & B are related & C is not related to any component in that case how to use B data in C
+
+14.          What is webpack
+
+15.          How will you decide number of components in application (Based on what scenario)
+
+16.          What is the use of join and its types  (sql query)
+
+=============================
