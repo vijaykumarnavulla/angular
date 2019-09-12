@@ -32,3 +32,7 @@ specificity
 
 dynamic variable
 
+state managment angular/react
+
+ngrxStore or redux
+
