@@ -29,3 +29,4 @@ https://netbasal.com/understanding-angular-structural-directives-659acd0f67e
 https://stackblitz.com/angular/nqollrvreqy?file=src%2Fapp%2Funless.directive.ts
 
 
+https://www.fullstack.cafe/
