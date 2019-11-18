@@ -16,12 +16,9 @@ npm run build –prod
 
 npm run packagr
 
-google cloud host
-
 
 https://edge-xotb.herokuapp.com/
  
-azure cloud host
 
 https://flex.apache.org/asdoc/ 
 
